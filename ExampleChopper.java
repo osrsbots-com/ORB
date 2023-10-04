@@ -72,9 +72,7 @@ public class ExampleChopper implements Script {
                     ScriptUtil.stop("Failed to find tree!");
                     return;
                 }
-
-                // Highlight tree on UI
-
+                
                 // We DID find a tree - lets interact
                 tree.interact("Chop down");
 
