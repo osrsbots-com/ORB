@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExampleInternalAPI/ExampleInternalAPI.iml" filepath="$PROJECT_DIR$/ExampleInternalAPI/ExampleInternalAPI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExampleScript/ExampleScript.iml" filepath="$PROJECT_DIR$/ExampleScript/ExampleScript.iml" />
       <module fileurl="file://$PROJECT_DIR$/osrsbots-com.iml" filepath="$PROJECT_DIR$/osrsbots-com.iml" />
     </modules>
   </component>
